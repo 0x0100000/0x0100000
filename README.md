@@ -22,7 +22,7 @@ func main() {
 ```
 
 <h3>📊 I Spent My Time On:</h3>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=0x0100000&show_icons=true&theme=radical", width="300" height="150">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=0x0100000&show_icons=true&theme=radical", width="400" height="150">
 
 <!--START_SECTION:waka-->
 
